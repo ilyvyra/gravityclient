@@ -1,0 +1,16 @@
+[
+{
+  "modid": "antigravity",
+  "name": "Antigravity",
+  "description": "An advanced, high-performance Minecraft 1.8.9 Forge client.",
+  "version": "${version}",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Antigravity Team"],
+  "credits": "Created by Antigravity AI",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
